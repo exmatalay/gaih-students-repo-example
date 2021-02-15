@@ -1,7 +1,7 @@
-# GAIH Student Repo Example
+# Introduction to Python Programming Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 15.02.2021 - 19.02.2021 
+**Course Date:** 15 -19 Şubat 2021 
 **Name:** Murat  
 **Surname:** Atalay  
 **Email:** murat.atalay@hotmail.com.tr  
