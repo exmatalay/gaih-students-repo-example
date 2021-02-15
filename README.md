@@ -9,13 +9,11 @@
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Description of your project.
+Introduction to Python Programming Student Repo homeworks and final project repo.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+No Requirements
 ```
 ---
 
